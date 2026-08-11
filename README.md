@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=190&section=header&text=Hey,%20I'm%20Bricio!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Colorful profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=190&section=header&text=Hello,%20I'm%20Bricio!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Colorful profile banner" />
 
 <a href="https://bricio-mission-control-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/briciob"><img src="https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
