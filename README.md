@@ -24,7 +24,7 @@ I’m happiest when I can move between product ideas, frontend polish, backend a
 
 An event-planning workspace connecting clients, planners, managers, and workers in one place.
 
-`React` `FastAPI` `Ruby on Rails` `PostgreSQL` `AWS` `Docker` `GitHub Actions`
+`React` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions`
 
 It brings together event forms, setup sheets, schedules, document sharing, role-based views, staffing changes, and communication—so teams spend less time hunting for information.
 
