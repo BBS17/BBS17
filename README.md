@@ -24,17 +24,17 @@ I’m happiest when I can move between product ideas, frontend polish, backend a
 
 An event-planning workspace connecting clients, planners, managers, and workers in one place.
 
-`React` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions`
+`React` `FastAPI` `Ruby on Rails` `PostgreSQL` `AWS` `Docker` `GitHub Actions`
 
 It brings together event forms, setup sheets, schedules, document sharing, role-based views, staffing changes, and communication—so teams spend less time hunting for information.
 
 ## 🧰 My toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,postgres,docker,githubactions,aws,linux,git,java,cpp" alt="Python, FastAPI, React, JavaScript, PostgreSQL, Docker, GitHub Actions, AWS, Linux, Git, Java, and C++" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,rails,react,js,postgres,docker,githubactions,aws,linux,git,java,cpp" alt="Python, FastAPI, Ruby on Rails, React, JavaScript, PostgreSQL, Docker, GitHub Actions, AWS, Linux, Git, Java, and C++" />
 </p>
 
-I also enjoy embedded C, STM32 systems, sensors, real-time control, OAuth 2.0, REST APIs, and designing software that is easy for a team to maintain.
+I also enjoy embedded C, STM32 systems, sensors, real-time control, OAuth 2.0, REST APIs, Ruby on Rails, AWS services, Dockerized deployments, and designing software that is easy for a team to maintain.
 
 ## 🎮 Projects I’ve enjoyed
 
